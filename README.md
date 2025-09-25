@@ -36,6 +36,5 @@ Because the full dataset (~1.5 GB) exceeds GitHub’s file size limit, this repo
 ## Reflection
 This assignment strengthened skills in data wrangling, visualization, and framework integration.
 The main challenge was handling the large dataset, which was solved by sampling and cleaning for efficient analysis.
-Future improvements could include normalizing journal names, expanding keyword analysis, and supporting chunked processing of the full dataset.
 
     
